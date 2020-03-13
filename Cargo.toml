@@ -9,7 +9,7 @@ readme = "README.md"
 
 [dependencies]
 image = "0"
-ffmpeg = {git = "https://github.com/meh/rust-ffmpeg", rev = "ba724c3"}
+ffmpeg = {git = "https://github.com/meh/rust-ffmpeg", rev = "c8b1eb4"}
 
 [dev-dependencies]
 rustface = "*"
